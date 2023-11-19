@@ -16,3 +16,5 @@ celery -A celery_django_test.celery worker -l INFO
 # celery beat
 
 celery -A celery_django_test.celery beat
+
+# OK
