@@ -17,4 +17,4 @@ celery -A celery_django_test.celery worker -l INFO
 
 celery -A celery_django_test.celery beat
 
-# OK
+# Changed
